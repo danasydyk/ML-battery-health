@@ -1,0 +1,11 @@
+Device_ID,device_age_months,battery_capacity_mah,avg_screen_on_hours_per_day,avg_charging_cycles_per_week,avg_battery_temp_celsius,fast_charging_usage_percent,overnight_charging_freq_per_week,gaming_hours_per_week,video_streaming_hours_per_week,background_app_usage_level,signal_strength_avg,charging_habit_score,usage_intensity_score,thermal_stress_index
+207dd94c-0430-43aa-b388-4893447e628e,38,4500,7.1,11.4,34.8,90.8,7,7.9,14.0,Medium,Poor,4,10.0,4.04
+3f4d1d33-ba89-4814-a168-7b4cc75be26b,28,3000,6.8,10.3,35.4,60.6,2,8.6,11.0,Medium,Good,7,10.0,4.23
+b4adca05-564f-4b70-ab69-e8d66e656463,14,3000,7.2,11.2,29.4,29.3,4,0.3,10.3,Medium,Good,6,10.0,2.21
+4147e039-31b7-480a-bbc9-03cd0f66e9f1,42,3000,5.5,8.3,32.8,62.5,0,1.9,4.9,Medium,Good,8,10.0,3.13
+3f9b0fb7-73c2-4ab7-8e30-7b492097a3f5,7,3000,7.6,11.6,38.7,85.4,6,7.9,9.3,High,Good,5,10.0,4.95
+64eaa3cb-07b0-4854-9855-c79ff9a0e947,20,4000,7.4,10.1,30.7,20.9,2,7.4,4.1,Medium,Good,8,10.0,3.04
+17bdd56a-0027-4c84-a2ca-b81a024b59fb,38,3000,7.8,11.8,32.7,50.2,4,6.8,12.0,Medium,Good,7,10.0,3.48
+dc6f0ab4-53b2-4a59-b2d1-8ef2c6b9b54a,18,5000,4.3,7.8,32.5,10.5,6,5.3,11.7,Low,Good,6,10.0,3.31
+d755e272-ed5f-4d24-b6f4-e95fa32542b2,22,3000,7.6,11.5,37.4,35.7,0,12.7,10.9,Medium,Good,8,10.0,5.01
+6feb6a06-c9af-4bf9-a062-561d129d4dbd,10,4500,4.5,5.9,33.3,78.7,0,5.2,16.2,Medium,Good,8,10.0,3.5

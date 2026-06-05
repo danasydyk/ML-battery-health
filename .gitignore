@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.streamlit/
+mlflow.db
+__pycache__/
+.DS_Store
