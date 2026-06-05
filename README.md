@@ -4,7 +4,7 @@
 Predict smartphone battery health using machine learning.
 
 ## Dataset
-Description of features and targets.
+Kaggle open dataset (https://www.kaggle.com/datasets/vishardmehta/smartphone-battery-health-prediction-dataset)
 
 ## Models Tested
 - Linear Regression
@@ -25,5 +25,5 @@ MLflow was used to track parameters, metrics, and trained models.
 Best model: Gradient Boosting
 R²: 0.94
 
-##Link
+## Link
 You may check the app by this link https://ml-battery-health.streamlit.app
