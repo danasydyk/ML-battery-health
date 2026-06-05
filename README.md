@@ -24,3 +24,6 @@ MLflow was used to track parameters, metrics, and trained models.
 ## Results
 Best model: Gradient Boosting
 R²: 0.94
+
+##Link
+You may check the app by this link https://ml-battery-health.streamlit.app
